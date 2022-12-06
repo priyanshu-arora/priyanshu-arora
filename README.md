@@ -9,7 +9,7 @@
 
 - 🔭 Working as a SDE-1 in **[Medly Software Systems](https://medly.com/en-us)**
 
-- 🚀 Other Github Account **[priyanshu-medly](https://github.com/priyanshu-medly)**
+- 🚀 Other Github Account **[priyanshuarora1](https://github.com/priyanshuarora1)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://priyanshu59.web.app/)**
 
