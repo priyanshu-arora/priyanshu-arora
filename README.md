@@ -7,7 +7,7 @@
 
 - 🔭 I have pursued my Engineering from ABES Engineering College, Ghaziabad
 
-- 🔭 Working as a SDE-1 in **[Medly Software Systems](https://medly.com/en-us)**
+- 🔭 Working as a SDE-1 at **[AMBER](https://amberstudent.com/)**
 
 - 🚀 Other Github Account **[priyanshuarora1](https://github.com/priyanshuarora1)**
 
